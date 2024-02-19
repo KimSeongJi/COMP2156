@@ -20,7 +20,6 @@ script:
   - mv build/index.html build/404.html
 
 dist: focal
-
 deploy:
   provider: pages
   skip_cleanup: true
