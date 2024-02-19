@@ -1,40 +1,13 @@
 {
   "name": "comp2156",
   "version": "1.0.0",
-  "description": "",
+  "description": "comp2156 lab exercise",
   "main": "index.js",
   "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
-    "test": "echo \"Warning: No tests created yet\"",
-    "eject": "react-scripts eject"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/KimSeongJi/COMP2156.git"
+    "test": "echo \"Error: no test specified\"",
+    "ci": "echo \"Error: no ci configured\""
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "homepage": "https://github.com/KimSeongJi/COMP2156#readme",
-  "dependencies": {
-    "gh-pages": "^2.0.1",
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0",
-    "react-scripts": "^5.0.1",
-    "travis": "^0.1.1",
-    "web-vitals": "^2.1.4",
-    "yarn": "^1.13.0"
-  },
-  "eslintConfig": {
-    "extends": "react-app"
-  },
-  "browserslist": [
-    ">0.2%",
-    "not dead",
-    "not ie <= 11",
-    "not op_mini all"
-  ]
+  "author": "Luana Kim",
+  "license": "ISC"
 }
